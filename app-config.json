@@ -1,20 +1,21 @@
 {
-    "app": {
-        "title": "DỊCH VỤ CÔNG",
-        "headerColor": "",
-        "textColor": "white",
-        "statusBarColor": "#046DD6",
-        "leftButton": "back",
-        "actionBarHidden": true,
-        "hideIOSSafeAreaBottom": true,
-        "statusBar": "transparent"
-    },
-    "debug": false,
-    "listCSS": [],
-    "listSyncJS": [],
-    "listAsyncJS": [],
-    "pages": [],
-    "template": {
-        "name": "zaui-egovernment"
-    }
+  "app": {
+    "appId": "515241965038219400",
+    "title": "DỊCH VỤ CÔNG",
+    "headerColor": "",
+    "textColor": "white",
+    "statusBarColor": "#046DD6",
+    "leftButton": "back",
+    "actionBarHidden": true,
+    "hideIOSSafeAreaBottom": true,
+    "statusBar": "transparent"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [],
+  "template": {
+    "name": "zaui-egovernment"
+  }
 }
